@@ -1,0 +1,47 @@
+/* h1 {
+  color: green;
+  background-color: #f00;
+}
+.name {
+    color:yellow;
+    background-color: violet
+}
+
+h1 {
+  color: orange;
+}
+
+h1 #demo {
+  color: aqua;
+} */
+
+p .location {
+
+}
+
+/* .details h1 {
+    background-color: springgreen;
+    color:olive
+} */
+
+
+
+/* .location {
+  background-color: #f00;
+} */
+
+/* #demo {
+    background-color: chocolate;
+} */
+
+/* p {
+  background-color: #003694;
+} */
+
+.bg-pink .location {
+    background-color: pink;
+}
+
+.color-red {
+    color: red;
+}
